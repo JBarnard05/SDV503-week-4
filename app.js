@@ -89,7 +89,4 @@ Ex: let nums = [1,2,3]
     console.log(nums)
  */
 
-    let nums = [1,2,3]
-    console.log(nums)
-    nums[2] = 10 
-    console.log(nums)
+    
